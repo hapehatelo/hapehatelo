@@ -6,7 +6,7 @@ Saya seorang **Full-Stack Software Developer** dan **Network Infrastructure Engi
 
 ### 🚀 Fokus & Keahlian Utama
 
-- 🌐 **Network & ISP Engineering:** Manajemen jaringan MikroTik RouterOS, otomatisasi CPE dengan TR-069 (GenieACS), serta integrasi jaringan berbasis API.
+- 🌐 **Network & ISP Engineering:** Manajemen jaringan MikroTik RouterOS, serta integrasi jaringan berbasis API.
 - ⚡ **High-Performance Backend & Edge:** Membangun layanan REST API & OpenAPI berkecepatan tinggi di atas Cloudflare Workers, Hono, dan Laravel.
 - 🐳 **DevOps & Self-Hosting:** Orkestrasi kontainer dengan Docker, FrankenPHP, Nginx Reverse Proxy, dan Cloudflare Tunnels.
 - 🤖 **AI-Assisted Engineering:** Mengembangkan pipeline konten otomatis dan integrasi LLM untuk skala produksi.
